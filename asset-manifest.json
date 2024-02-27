@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/popular-git-repos/static/css/main.91efbf7d.css",
+    "main.js": "/popular-git-repos/static/js/main.9aad6c9f.js",
+    "static/js/453.50963ad9.chunk.js": "/popular-git-repos/static/js/453.50963ad9.chunk.js",
+    "index.html": "/popular-git-repos/index.html",
+    "main.91efbf7d.css.map": "/popular-git-repos/static/css/main.91efbf7d.css.map",
+    "main.9aad6c9f.js.map": "/popular-git-repos/static/js/main.9aad6c9f.js.map",
+    "453.50963ad9.chunk.js.map": "/popular-git-repos/static/js/453.50963ad9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91efbf7d.css",
+    "static/js/main.9aad6c9f.js"
+  ]
+}
